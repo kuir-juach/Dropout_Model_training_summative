@@ -1,4 +1,8 @@
-# Machine Learning Model Training and Results
+**Problem Statement:**  
+The project aims to predict student outcomes such as dropout, graduation, and performance based on a variety of factors, including application details, parental education, financial status, and economic indicators. The challenge lies in processing and analyzing this complex dataset to identify patterns that influence student success. Accurate predictions can help in targeted interventions to support students in need, thus improving educational outcomes.
+
+**Dataset Used:**  
+I used a dataset from Kargal that includes features like marital status, application mode, course, parental qualifications, financial standing, and various economic indicators like unemployment rate and GDP. These attributes are used to predict whether a student will drop out, graduate, or be classified as a graduate based on various socio-economic factors and educational backgrounds.# Machine Learning Model Training and Results
 
 ## Training Instances
 
