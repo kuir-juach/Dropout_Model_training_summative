@@ -1,3 +1,5 @@
+Link to the Video:https://youtu.be/x_SpS7HNBbI
+
 **Problem Statement:**  
 The project aims to predict student outcomes such as dropout, graduation, and performance based on a variety of factors, including application details, parental education, financial status, and economic indicators. The challenge lies in processing and analyzing this complex dataset to identify patterns that influence student success. Accurate predictions can help in targeted interventions to support students in need, thus improving educational outcomes.
 
